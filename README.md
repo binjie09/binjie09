@@ -1,1 +1,1 @@
-![binjie09 github stats](https://github-readme-stats-hssi0xign-binjie09.vercel.app/api?username=binjie09)
+[![GitHub Streak](https://streak-stats.demolab.com?user=binjie09&locale=zh_Hans)](https://git.io/streak-stats)
